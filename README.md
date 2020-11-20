@@ -2,4 +2,4 @@
 
 Introdução ao git e github.
 
-Resolvendo Conflitos!
+Introdução a criação de websites com html5 e css3
