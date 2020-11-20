@@ -1,5 +1,5 @@
 #BootCamp Digital Inovation One - Avanade
 
-Introdução ao git e github.
+IntroduÃ§Ã£o ao git e github.
 
-Resolvendo Conflitos.
+Resolvendo Conflitos!
